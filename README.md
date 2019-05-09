@@ -11,5 +11,11 @@ The front-end is made with React, the backend is made with Django and Postgresql
 * Delete a todo
 * Mark a todo as complete
 
-**Simple Prototype of Todolists**
+**Quick Overview**
 ![](todolist.gif)
+**Add and Editting**
+![](todolist_add.gif)
+**Delete**
+![](todolist_delete.gif)
+**Mark Completed**
+![](todolist_mark.gif)
